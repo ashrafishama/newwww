@@ -21,7 +21,7 @@
                 </a>
             </div>
 
-                    You are logged in!
+                    You are logged in! You can view the questions now!
                 </div>
             </div>
         </div>
