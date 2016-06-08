@@ -21,6 +21,7 @@
             background-image: url("/views/assets/img.png");
         }
 
+         img src = "img.jpg" 
         .fa-btn {
             margin-right: 6px;
         }
